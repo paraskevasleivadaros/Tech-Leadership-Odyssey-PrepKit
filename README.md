@@ -31,6 +31,12 @@ My journey in tech, aiming for IEEE Fellow, ACM Fellow, AWS Data Hero, and more.
   - https://cloud.google.com/edu/faculty/career-readiness
 
 ### Microsoft
+- **Microsoft Credentials**
+  - https://learn.microsoft.com/en-us/credentials/browse/
+- **Microsoft Certifications**
+  - https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification
+- **Microsoft Applied Skills**
+  - https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills
 - **Microsoft Power Up Program**
 - **Microsoft's AI Odyssey Challenge**
 - **Microsoft Learn Student Ambassadors**
