@@ -9,6 +9,13 @@ My journey in tech, aiming for IEEE Fellow, ACM Fellow, AWS Data Hero, and more.
 ### AWS
 - **AWS Data Hero**
 - **AWS User Group**
+- **AWS Power Hour**
+  - [AWS Power Hour: Cloud Practitioner](https://twitch.tv/videos/2049378312?collection=BA4eiNiLrxeTQw)
+  - [AWS Power Hour: Architecting Associate Twitch Collection](https://twitch.tv/videos/1859930127?collection=3G5AZGQScRcaog)
+  - [AWS Power Hour: Developer Associate Twitch Collection](https://twitch.tv/videos/1856604138?collection=DaNKqHMScRe39w)
+  - [AWS Power Hour: SysOps Associate Twitch Collection](https://twitch.tv/videos/1857182776?collection=oO7unIcScRf9zg)
+  - [AWS Power Hour: Architecting Professional Twitch Collection](https://twitch.tv/videos/2074976036?collection=JjW7JlSytRfT1w)
+  - [AWS Power Hour: DevOps Professional Twitch Collection](https://twitch.tv/videos/1881363838?collection=hGqJTYl-Zhc6iw)
 - **AWS Cloud Quest**
   - https://aws.amazon.com/training/digital/aws-cloud-quest/
 - **AWS Community Builder's**
