@@ -18,6 +18,7 @@ My journey in tech, aiming for IEEE Fellow, ACM Fellow, AWS Data Hero, and more.
   - [AWS Power Hour: DevOps Professional Twitch Collection](https://twitch.tv/videos/1881363838?collection=hGqJTYl-Zhc6iw)
 - **AWS Cloud Quest**
   - https://aws.amazon.com/training/digital/aws-cloud-quest/
+- **AWS New Voices Coach**
 - **AWS Community Builder's**
   - https://dev.to/aws-builders/how-to-become-an-aws-community-builder-2m79
 - **AWS Re/Start Accredited Instructor**
