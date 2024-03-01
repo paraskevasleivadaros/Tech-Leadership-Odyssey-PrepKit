@@ -26,6 +26,7 @@ My journey in tech, aiming for IEEE Fellow, ACM Fellow, AWS Data Hero, and more.
 
 ### Google
 - **Google Accelerator**
+- **Google Summer of Code** 
 - **Google Developer Experts**:
   - https://developers.google.com/community/experts#how_do_i_apply
   - https://www.linkedin.com/posts/avedave_the-on-boarding-process-for-the-google-developer-activity-7143911235648946176-pUe_?utm_source=share&utm_medium=member_desktop
